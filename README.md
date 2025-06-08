@@ -6,10 +6,11 @@
 ---
 
 **Разработчики проекта:**
-*   **Брагуца Евгений(jmksjm)** - [GitHub](https://github.com/jmksjm)
+*   **Брагуца Евгений (jmksjm)** - [GitHub](https://github.com/jmksjm)
 *   **Климкин Егор (KevY5)** - [GitHub](https://github.com/KEV0143)
 *   **Снигаренко Антон (AntonTriceps)** - [GitHub](https://github.com/AntonTriceps)<br><br>
-**Связь для уточнения деталей по проекту:** [Telegram](https://t.me/ne_sravnim)
+
+Связь для уточнения деталей по проекту:** [Telegram](https://t.me/ne_sravnim)
 
 ---
 
